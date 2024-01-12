@@ -1,0 +1,17 @@
+{
+    "name": "external-hai",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": "Wonderland",
+    "contributors": [
+      "wei3erHase (https://github.com/wei3erHase)"
+    ],
+    "scripts": {
+      "build": "forge build"
+    },
+    "dependencies": {
+      "@hai-on-op/core": "https://github.com/hai-on-op/core.git"
+    },
+    "devDependencies": {}
+  }
+  

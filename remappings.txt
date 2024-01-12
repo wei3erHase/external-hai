@@ -1,0 +1,9 @@
+@hai/=node_modules/@hai-on-op/core/src/
+
+@openzeppelin/=node_modules/@openzeppelin/
+forge-std/=node_modules/forge-std/src/
+ds-test/=node_modules/ds-test/src/
+
+@contracts/=node_modules/@hai-on-op/core/src/contracts/
+@interfaces/=node_modules/@hai-on-op/core/src/interfaces/
+@libraries/=node_modules/@hai-on-op/core/src/libraries/
